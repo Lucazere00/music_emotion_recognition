@@ -6,4 +6,5 @@ Il repository è organizzato come segue:
 - mel_spectrogram contiene le visualizzazioni degli spettrogrammi delle diverse emozioni e confronto tra MFCC e Mel Spectrogram.
 
 Il file Article_MER.pdf contiene l'articolo scientifico completo che documenta il progetto.
+
 Il file .ipynb è stato salvato con l'output delle celle già visibile e contenente ulteriori approfondimenti: Waveform ed analisi degli errori.
